@@ -165,7 +165,8 @@ The hyperparameter tuning process significantly improved the decision tree's per
 
 2. Enhance Customer Service Experience: Since frequent customer service interactions are linked to higher churn, improve the quality and efficiency of customer support
 
-3. Strategize to Enrol more customer on Voice mail since enroled clients are at a lower risk of churn
+3. Strategize to Enrol more customer on Voice mail since enroled clients are at a lower risk of churning.
+ 
 
 
 
