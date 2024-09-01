@@ -35,7 +35,7 @@ I undertook both Univitrate and Multivitrate Data Analysis and oncvered various 
 
 **international plan vs churn**
 
-![(image1)]
+![projectimage](image1.png)
 
 **1.Higher Churn for customers with  International Plan:**
 
@@ -49,7 +49,7 @@ This suggests that customers with an international plan are more likely to churn
 
 **Voice mail vs Plan**
 
-![(image2)]
+!![projectimage](image2.png)
   
 **1. Churn by Voice Mail Plan:**
 
@@ -71,7 +71,7 @@ The chart suggests that having a voice mail plan might serve as a protective fac
 **Total day Minutes vs Churn**
 
 
-![(image3)]
+!![projectimage](image3.png)
 
 **1. Comparison of Total Day Minutes Between Churned and Non-Churned Customers:Non-Churned Customers (False):**
 
